@@ -1,34 +1,64 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# dashgo
 
-## Getting Started
+## Table of contents
 
-First, run the development server:
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)  
+  - [Continued development](#continued-development)
+- [Author](#author)
 
-```bash
-npm run dev
-# or
-yarn dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Overview
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+### Screenshot
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+### Login
+![](public/images/login.png)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+### Dashboard
+![](public/images/dashboard.png)
 
-## Learn More
+### List User
+![](public/images/userlist.png)
 
-To learn more about Next.js, take a look at the following resources:
+### Create User
+![](public/images/usercreate.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### Links
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- [Link website](https://dashgo-inanbruneli.vercel.app/)
 
-## Deploy on Vercel
+## My process
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Built with
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- ReactJS
+- NextJS
+  - Context API
+  - Typescript
+  - SCSS
+
+-Library
+  - Chakra UI
+  - Mirage
+  - Faker
+  - React Hook Form
+  - Apex Chart
+  - React Query
+
+-Responsive
+
+### Continued development
+
+Training NextJS and Chakra UI.
+Feel free to put your feedback 🚀🚀
+
+## Author
+
+- Instagram - [@inanbrunelli](https://www.instagram.com/inanbrunelli)
+- Github - [@inanbrunelli](https://github.com/inanbruneli)
+- Website - [inanbrunell.com](https://inanbruneli.github.io/portifolio/)
+- Linkedin - [@inanbrunelli](https://www.linkedin.com/in/inan-brunelli/)
