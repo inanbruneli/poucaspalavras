@@ -1,13 +1,20 @@
 import { Flex, Icon, Image, Stack, Text, VStack } from "@chakra-ui/react";
 import { RiShoppingCart2Fill } from "react-icons/ri";
+import NextLink from "next/link";
 
 export function Head() {
+
+
   return (
     <Flex w='100vw' bg='blue.900' height='9vh' alignItems='center' px='5' flexDir='row' justifyContent='space-between'>
 
       <Stack direction='row' spacing='10' alignItems='center'>
         <Image src='https://cdn.shopify.com/s/files/1/0254/0516/1520/files/logo.gif?v=1613717913' boxSize={'50px'}></Image>
-        <Text color='white' fontWeight='600' fontSize='18px'>Posters</Text>
+
+        <NextLink href='../collections/poster' passHref>
+          <Text color='white' fontWeight='600' fontSize='18px' cursor='pointer'>Posters</Text>
+        </NextLink>
+
         <Text color='white' fontWeight='600' fontSize='18px'>Notebooks & Journals</Text>
         <Text color='white' fontWeight='600' fontSize='18px'>Clothes</Text>
         <Text color='white' fontWeight='600' fontSize='18px'>Accessories</Text>
