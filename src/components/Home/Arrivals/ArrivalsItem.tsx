@@ -14,7 +14,7 @@ export function ArrivalsItem({ novo, imagem, title, value, bestseller, id }: Arr
   return (
     <Box position='relative'>
       <NextLink href={`../../products/${id}`} passHref>
-        <Flex w={['100%', '100%', '100%', '350px', '350px']} w={['100%', '100%', '350px', '450px', '350px']} flexDir='column' mb='12vh' mr='3' cursor='pointer'>
+        <Flex w={['100%', '100%', '350px', '450px', '350px']} flexDir='column' mb='12vh' mr='3' cursor='pointer'>
           <Image
             src={imagem}
             boxSize='100%'
