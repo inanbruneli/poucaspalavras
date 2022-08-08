@@ -16,30 +16,20 @@ export default function Collection({ collection }: CollectionProps) {
     <Box overflowX='hidden'>
       <Head />
 
-      <Flex paddingY='7vh'>
+      <Flex paddingY={'7vh'}>
         <Image
-          boxSize='65%'
+          boxSize={['100%', '100%', '90%', '80%', '65%']}
           marginX='auto'
           src='https://cdn.shopify.com/s/files/1/0254/0516/1520/files/220506_Posters_Collection_desktop_1296x.jpg?v=11008427675408508083 '
         >
         </Image>
       </Flex>
 
-      <Flex marginX='auto' flexDir='row' justifyContent='space-between' wrap='wrap' w={['150vh', '150vh', '150vh', '150vh', '150vh', '120vh']}>
-
-        {data.map((dado) => {
-          return (
-            <ArrivalsItem
-              id={dado.id}
-              imagem={dado.images[0]}
-              title={dado.mainTitle}
-              value={dado.value}
-              novo={false}
-              bestseller={false}
-            />
-          )
-        })}
-      </Flex>
+      <Box w='100%' paddingY='7vh' paddingX={['3rem', '3rem', '4rem', '5rem', '0']}>
+        <Flex marginX='auto' flexDir={['row', 'column', 'row', 'row', 'row']} justifyContent='space-between' wrap='wrap' maxW={['69rem', '69rem', '69rem', '69rem', '69rem']}>
+          {data.map((dado) => <ArrivalsItem id={Number(dado.id)} imagem={dado.images[0]} title={dado.mainTitle} value={dado.value} novo={false} bestseller={false} />)}
+        </Flex>
+      </Box>
 
       <Footer />
     </Box>

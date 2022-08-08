@@ -11,7 +11,7 @@ interface ExploreImagesProps {
 
 export function ExploreImages({ dados }: ExploreImagesProps) {
   return (
-    <Stack spacing='5' direction='row' paddingX='10'>
+    <Stack spacing='5' direction={['column','column','row','row','row']} paddingX='10'>
       {dados.map((dado) => {
         return (
           <Box position='relative'>

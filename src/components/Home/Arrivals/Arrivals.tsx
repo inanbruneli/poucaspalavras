@@ -7,6 +7,7 @@ interface ObjetoProps {
   value: string;
   novo: boolean;
   bestseller: boolean;
+  id: number;
 }
 
 interface ArriavalsProps {
@@ -16,16 +17,16 @@ interface ArriavalsProps {
 
 export function Arrivals({ dados, mainTitle }: ArriavalsProps) {
   return (
-    <Box w='100%' paddingY='7vh'>
+    <Box w='100%' paddingY='7vh' paddingX={['3rem', '3rem', '4rem', '5rem', '0']}>
 
       <Text textAlign='center' w='100%' color='blue.900' fontWeight='600' fontSize='26px' mb='8'>{mainTitle}</Text>
 
-      <Flex marginX='auto' flexDir='row' justifyContent='space-between' wrap='wrap' w={['150vh', '150vh', '150vh', '150vh', '150vh', '120vh']}>
+      <Flex marginX='auto' flexDir={['row', 'column', 'row', 'row', 'row']} justifyContent='space-between' wrap='wrap' maxW={['69rem', '69rem', '69rem', '69rem', '69rem']}>
 
         {dados.map((dado) => {
           return (
             <ArrivalsItem
-
+              id={dado.id}
               imagem={dado.image}
               title={dado.title}
               value={dado.value}

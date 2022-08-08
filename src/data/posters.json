@@ -327,5 +327,404 @@
                 "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/Mechanicalman-3_grande_2048x2048_14834b44-2a7d-4a05-80c6-e7396aaf34ad.png?crop=center&v=1651766668&width=540",
                 "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/Mechanicalman-4_grande_2048x2048_f4652ab4-9715-4d97-9b15-0af85bc7a607.png?crop=center&v=1651766668&width=540",
                 "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/01_AgingRobopeople_Front.jpg?crop=center&v=1651766668&width=540"]
+        },
+        
+        {
+
+            "id": "25",
+            "collection":"notebooks",
+            "mainTitle": "Habit Journal",
+            "blueTitle": "High-Quality Paper, Printed in the EU",
+            "value": "$24.90",
+            "description": "We created this journal to help you change your life one tiny step at a time. It contains scientific explanations, a tutorial, and lots of cute illustrations.",
+            "list": ["5.3 x 8.5",          
+              "208 pages",
+              "High-quality cover with removable belly band",
+              "Smooth high-quality paper, ideal for journaling",
+              "FSC® and PEFC™ certified paper"
+          ],
+            "images": ["https://cdn.shopify.com/s/files/1/0254/0516/1520/products/01_HabitJournal_Front.jpg?crop=center&v=1649946008&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/02_HabitJournal_Endpaper.jpg?crop=center&v=1649946076&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/03_HabitJournal_Bellyband.jpg?crop=center&v=1649946076&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/04_HabitJournal_Overview.jpg?crop=center&v=1649946014&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/05_HabitJournal_Use.jpg?crop=center&v=1649946017&width=900"
+          ]
+        },
+        {
+
+            "id": "26",
+            "collection":"notebooks",
+            "mainTitle": "Gratitude Journal",
+            "blueTitle": "High-Quality Paper, Printed in the EU",
+            "value": "$24.90",
+            "description": "We created this journal to help you get into the habit of Gratitude journaling. It contains step by step explanations and lots of cute illustrations.",
+            "list": ["5.3 x 8.5", 
+            "208 pages",
+            "High-quality cover with removable belly band",
+            "Smooth high-quality paper, ideal for journaling",
+            "FSC® and PEFC™ certified paper\r\nWorldwide shipping"
+          ],
+            "images": ["https://cdn.shopify.com/s/files/1/0254/0516/1520/products/01_Gratitude_Front.jpg?crop=center&v=1609356894&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/IMG_2364.jpg?crop=center&v=1575657026&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/IMG_2268_dfb39c5d-c400-41ac-85ac-3a1dcd3f12b5.jpg?crop=center&v=1575657153&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/IMG_2381.jpg?crop=center&v=1575657026&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/IMG_2396_dfac2e97-74a8-4788-8ce2-be7911dc6a96.jpg?crop=center&v=1575665538&width=900"
+          ]
+        },
+        {
+
+            "id": "27",
+            "collection":"notebooks",
+            "mainTitle": "Pocket Log – Lake Collection",
+            "blueTitle": "Tiny, High-Quality Notebooks",
+            "value": "$11.90",
+            "description": "Take these tiny notebooks with you wherever you go and use them whenever you feel inspired. This collection is dedicated to living life to the fullest.",
+            "list": ["Set of 3 small notebooks",
+            "4.1 × 5.8",
+            "48 pages each, with dot grid layout",
+            "Soft paper cover, will lay completely flat",
+            "High-quality natural paper, ideal for notes and sketches"
+          ],
+            "images": ["https://cdn.shopify.com/s/files/1/0254/0516/1520/products/01_PocketLogs_Lake_Front.jpg?crop=center&v=1651660220&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/03_PocketLogs_Lake_Log1.jpg?crop=center&v=1651660220&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/04_PocketLogs_Lake_Log2.jpg?crop=center&v=1651660221&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/05_PocketLogs_Lake_Log3.jpg?crop=center&v=1651660220&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/07_PocketLogs_Lake_Detail.jpg?crop=center&v=1651660221&width=900"
+          ]
+        },
+        {
+
+            "id": "28",
+            "collection":"notebooks",
+            "mainTitle": "Ocean Explorer Notebook",
+            "blueTitle": "High-Quality Natural Paper",
+            "value": "$12.90",
+            "description": "We love the ocean. If you do, too, get this notebook. We guarantee you won't be disappointed by the lavishly illustrated cover or the detailed infographic pages.",
+            "list": ["5.8 x 8.3",
+            "80 uniquely ruled pages",
+            "Soft paper cover, will lay completely flat",
+            "Smooth high-quality paper, ideal for journaling"
+          ],
+            "images": ["https://cdn.shopify.com/s/files/1/0254/0516/1520/products/01_Ocean_Notebook_Front.jpg?crop=center&v=1602689176&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/04_Ocean_Notebook_Calendar.jpg?crop=center&v=1602689177&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/02_Ocean_Notebook_Pages.jpg?crop=center&v=1602689177&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/05_Ocean_Notebook_Side.jpg?crop=center&v=1602689177&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/06_Ocean_Notebook_Scribble.jpg?crop=center&v=1602689177&width=900"
+          ]
+        },
+        {
+
+            "id": "29",
+            "collection":"notebooks",
+            "mainTitle": "Desert Oasis Notepad",
+            "blueTitle": "High-Quality Ecolabel Paper",
+            "value": "$10.90",
+            "description": "The cover of this notepad looks good from every angle so you can use it however you want: in landscape or portrait mode and with your right or left hand.",
+            "list": ["5.8 x 8.3",
+            "50 pages with dot grid layout",
+            "Sturdy, thick carton cover ",
+            "EU Ecolabel and PEFC™ certified",
+            "Wire-o-binding"
+          ],
+            "images": ["https://cdn.shopify.com/s/files/1/0254/0516/1520/products/01_Notepad_Desert_Front.jpg?crop=center&v=1626952193&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/02_Notepad_Desert_Use.jpg?crop=center&v=1626952193&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/03_Notepad_Desert_Detail.jpg?crop=center&v=1626952192&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/04_Notepad_All.jpg?crop=center&v=1626952192&width=900"
+          ]
+        },
+        {
+
+            "id": "30",
+            "collection":"notebooks",
+            "mainTitle": "Pocket Log – Mars Collection",
+            "blueTitle": "Tiny, High-Quality Notebooks",
+            "value": "$11.90",
+            "description": "Take these tiny notebooks with you wherever you go and use them whenever you feel inspired. This collection is dedicated to our dream of living on Mars.",
+            "list": ["Set of 3 small notebooks",
+            "4.1 × 5.8",
+            "48 pages each, with dot grid layout",
+            "Soft paper cover, will lay completely flat",
+            "High-quality natural paper, ideal for notes and sketches"
+          ],
+            "images": ["https://cdn.shopify.com/s/files/1/0254/0516/1520/products/01_PocketLogs_Mars_Front_NEW.jpg?crop=center&v=1634202029&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/02_PocketLogs_Mars_Open1.jpg?crop=center&v=1633958760&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/03_PocketLogs_Mars_Open2.jpg?crop=center&v=1633958759&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/04_PocketLogs_Mars_Open3.jpg?crop=center&v=1633958761&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/05_PocketLogs_Mars_Detail.jpg?crop=center&v=1633958759&width=900"
+          ]
+        },
+        {
+
+            "id": "31",
+            "collection":"notebooks",
+            "mainTitle": "Ant Explorer Notebook",
+            "blueTitle": "High-Quality Natural Paper",
+            "value": "$12.90",
+            "description": "We love ants. If you do, too, get this notebook. We guarantee you won't be disappointed by the lavishly illustrated cover or the detailed infographic pages.",
+            "list": ["5.8 x 8.3",
+            "80 uniquely ruled pages",
+            "Soft paper cover, will lay completely flat",
+            "Smooth high-quality paper, ideal for journaling"
+          ],
+            "images": ["https://cdn.shopify.com/s/files/1/0254/0516/1520/products/01_Ants_Notebook_Front_02.jpg?crop=center&v=1598713727&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/02_Ants_Notebook_02.jpg?crop=center&v=1598713745&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/03_Ants_Notebook_Detail.jpg?crop=center&v=1588944924&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/04_Ants_Notebook_02.jpg?crop=center&v=1598713761&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/05_Ants_Notebook_Pages_02.jpg?crop=center&v=1598713779&width=900"
+          ]
+        },
+        {
+
+            "id": "32",
+            "collection":"notebooks",
+            "mainTitle": "The kurzgesagt Notepad",
+            "blueTitle": "Thick, High-Quality Natural Paper",
+            "value": "$10.90",
+            "description": "This is the notepad we use at kurzgesagt. It is simple but versatile. Use it in landscape or portrait mode, for sketches, calculations or anything in between.",
+            "list": ["5.8 x 8.3", 
+            "50 pages with dot grid layout",
+            "Sturdy, thick carton cover ",
+            "FSC® certified paper",
+            "Wire-o-binding"],
+            "images": ["https://cdn.shopify.com/s/files/1/0254/0516/1520/products/01_Notepad_Front.jpg?crop=center&v=1595585261&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/02_Notepad_Open.jpg?crop=center&v=1595585261&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/03_Notepad_Use1.jpg?crop=center&v=1595585261&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/04_Notepad_Use2.jpg?crop=center&v=1595585261&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/05_Notepad_Detail.jpg?crop=center&v=1595585261&width=900"
+          ]
+        },
+        {
+
+            "id": "33",
+            "collection":"notebooks",
+            "mainTitle": "Coloring Book",
+            "blueTitle": "Sturdy Paper, Printed in the EU",
+            "value": "$12.90",
+            "description": "Help! The kurzgesagt universe is looking unusually pale and is in desperate need of some color. So grab your crayons and get creative!",
+            "list": ["11.0 x 8.5",
+            "Thick paper, will stand up to crayons, colored pencils, pens, or markers",
+            "Over 40 kurzgesagt illustrations to color",
+            "Suitable for children"],
+            "images": ["https://cdn.shopify.com/s/files/1/0254/0516/1520/products/2019_Coloringbook_Cover_1.jpg?crop=center&v=1573048438&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/2019_Coloringbook_insight_1.jpg?crop=center&v=1573048439&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/2019_Coloringbook_Detail_1.jpg?crop=center&v=1573048439&width=900"
+          ]
+        },
+        {
+
+            "id": "34",
+            "collection":"notebooks",
+            "mainTitle": "12,021 Human Era Calendar",
+            "blueTitle": "Limited Edition",
+            "value": "$25.90",
+            "description": "Help! The kurzgesagt universe is looking unusually pale and is in desperate need of some color. So grab your crayons and get creative!",
+            "list": ["11.0 x 8.5",
+            "Thick paper, will stand up to crayons, colored pencils, pens, or markers",
+            "Over 40 kurzgesagt illustrations to color",
+            "Suitable for children"
+          ],
+            "images": ["https://cdn.shopify.com/s/files/1/0254/0516/1520/products/X-mas_Calendar.jpg?crop=center&v=1605707186&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/02_Calendar_Pages.jpg?crop=center&v=1601644854&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/03_Calendar_Pages.jpg?crop=center&v=1601644853&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/04_Calendar_Pages.jpg?crop=center&v=1601644852&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/05_Calendar_Pages.jpg?crop=center&v=1601644852&width=900"
+          ]
+        },
+        {
+
+            "id": "35",
+            "collection":"notebooks",
+            "mainTitle": "12,022 Human Era Calendar",
+            "blueTitle": "Limited Edition",
+            "value": "$26.90",
+            "description": "This is the notepad we use at kurzgesagt. It is simple but versatile. Use it in landscape or portrait mode, for sketches, calculations or anything in between.",
+            "list": ["5.8 x 8.3",
+            "50 pages with dot grid layout",
+            "Sturdy, thick carton cover ",
+            "FSC® certified paper",
+            "Wire-o-binding"
+          ],
+            "images": ["https://cdn.shopify.com/s/files/1/0254/0516/1520/products/01_Calendar12022_Front.jpg?crop=center&v=1633621030&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/02_Calendar12022_Group.jpg?crop=center&v=1633621030&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/03_Calendar12022_Group2.jpg?crop=center&v=1633621031&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/04_Calendar12022_Example.jpg?crop=center&v=1633621029&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/04_Calendar12022_Group3.jpg?crop=center&v=1633621029&width=900"
+          ]
+        },
+        {
+
+            "id": "36",
+            "collection":"notebooks",
+            "mainTitle": "12,018 Human Era Calendar",
+            "blueTitle": "Limited Edition",
+            "value": "$30.00",
+            "description": "Take these tiny notebooks with you wherever you go and use them whenever you feel inspired. This collection is dedicated to our dream of living on Mars.",
+            "list": ["Set of 3 small notebooks",
+            "4.1 × 5.8",
+            "48 pages each, with dot grid layout",
+            "Soft paper cover, will lay completely flat",
+            "High-quality natural paper, ideal for notes and sketches"
+          ],
+            "images": ["https://cdn.shopify.com/s/files/1/0254/0516/1520/products/190718_kalender.jpg?crop=center&v=1569440189&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/02__Kurzgesagt2018_Blatter01-2_grande_2048x2048_61fb50a5-90cb-4fd4-95aa-c0995faac2d6.jpg?crop=center&v=1569411460&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/03_Kurzgesagt2018_Closeup02-2_grande_2048x2048_8f0bb9b5-5262-4296-9bf9-4dbe7a1f479f.jpg?crop=center&v=1569411460&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/04_Kurzgesagt2018_Desk-2_grande_2048x2048_0086c55a-65fb-4ba8-b2b6-88e7ba04a323.jpg?crop=center&v=1569411460&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/05_Kurzgesagt2018_September-2_grande_2048x2048_901b30c3-6062-42e6-8135-ff0fab6713f9.jpg?crop=center&v=1569411460&width=900"
+          ]
+        },
+        { 
+            "id": "37",
+            "collection":"accessories",
+            "mainTitle": "Duck Plushie",
+            "blueTitle": "Your New Best Friend",
+            "value": "$34.90",
+            "description": "This is Duck. Your new companion! If you hug it tight and whisper a cool name in its ear, Duck will stay with you forever.",
+            "list": ["11.8 (H)",
+            "100% polyester with polyethylene pellets",
+            "Woven kurzgesagt label on Duck's rump"],
+            "images": ["https://cdn.shopify.com/s/files/1/0254/0516/1520/products/01_DuckPlushie_Front.jpg?crop=center&v=1614768111&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/02_DuckPlushie_Stare.jpg?crop=center&v=1614768111&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/03_DuckPlushie_Label.jpg?crop=center&v=1614768112&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/04_DuckPlushie_Mochi.jpg?crop=center&v=1614768112&width=900"
+            ]
+        },
+        { 
+            "id": "38",
+            "collection":"accessories",
+            "mainTitle": "Duck & Friends Enamel Mug",
+            "blueTitle": "Extra Durable Quality",
+            "value": "$20.90",
+            "description": "We enjoy a damn fine coffee as much as the next bird and we love it even more when it's served in a pretty enamel mug. Get it while it's hot. ",
+            "list": ["10.5 oz",
+            "Metal mug with enamel coating",
+            "Colorful print of Duck and his friends",
+            "Dishwasher safe, NOT microwave safe"],
+            "images": ["https://cdn.shopify.com/s/files/1/0254/0516/1520/products/01_EnamelMug_One.jpg?crop=center&v=1657637174&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/02_EnamelMug_Front.jpg?crop=center&v=1657637173&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/03_EnamelMug_Bottom_03c9b503-f99e-4a39-bac3-3bd59dd8283a.jpg?crop=center&v=1657637172&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/04_EnamelMug_Detail1_54d64282-7f19-4be1-9f67-48ca07287729.jpg?crop=center&v=1657637172&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/05_EnamelMug_Stag_0223b203-15dc-4ef5-98f5-ea68d7e0b52e.jpg?crop=center&v=1657637172&width=900"]
+        },
+        { 
+            "id": "39",
+            "collection":"accessories",
+            "mainTitle": "Kurzgesagt Tote Bag",
+            "blueTitle": "Organic Cotton Made to Last",
+            "value": "$18.90",
+            "description": "Going grocery shopping, to school, to the beach or literally anywhere? We recommend taking this gorgeous kurzgesagt tote bag with you.",
+            "list": ["14.5 x 27.3",
+            "Navy blue, sturdy canvas tote bag",
+            "Organic Fairtrade cotton",
+            "Screen print of kurzgesagt design on front and back"],
+            "images": ["https://cdn.shopify.com/s/files/1/0254/0516/1520/products/01_Tote_Front.jpg?crop=center&v=1614768035&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/02_Tote_Back.jpg?crop=center&v=1614768036&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/03_Tote_Earth.jpg?crop=center&v=1614768036&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/04_Tote_Tag.jpg?crop=center&v=1614768035&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/06_Tote_wear.jpg?crop=center&v=1614768035&width=900"
+            ]
+        },
+        { 
+            "id": "40",
+            "collection":"accessories",
+            "mainTitle": "Duck Mug",
+            "blueTitle": "Kurzgesagt Essential",
+            "value": "$15.90",
+            "description": "Before we start the day here at kurzgesagt we have coffee. Lots of it. And we drink it from this very mug. We hope it will inspire you, too.",
+            "list": ["11 oz",
+            "White ceramic mug",
+            "Microwave safe",
+            "Hand wash recommended"
+            ],
+            "images": ["https://cdn.shopify.com/s/files/1/0254/0516/1520/products/011_DuckMug_Front_US.jpg?crop=center&v=1657636876&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/01_DuckMug_Front_US_10385a4b-bb5f-408b-a659-8de782854508.jpg?crop=center&v=1657636876&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/02_DuckMug_Sides_US_628edea3-6801-46da-89a1-f2517c458a10.jpg?crop=center&v=1657636876&width=900"
+            ]
+        },
+        { 
+            "id": "41",
+            "collection":"accessories",
+            "mainTitle": "Baby Duck Plushie",
+            "blueTitle": "Your New Best Friend",
+            "value": "$34.90",
+            "description": "Baby Duck would like to be your friend. If you hug it tight and kiss it on its fluffy head, Baby Duck will stay with you through thick and thin.",
+            "list": ["8.3 (H)",
+            "100% polyester with polyethylene pellets",
+            "Woven kurzgesagt label on Baby Duck's rump"
+            ],
+            "images": ["https://cdn.shopify.com/s/files/1/0254/0516/1520/products/01_BabyDuck_Front.jpg?crop=center&v=1609357599&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/02_BabyDuck_Pair.jpg?crop=center&v=1609357599&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/03_BabyDuck_Detail.jpg?crop=center&v=1609357599&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/04_BabyDuck_Label.jpg?crop=center&v=1609357599&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/05_BabyDuck_Cuddle.jpg?crop=center&v=1609357599&width=900"
+            ]
+        },        
+        { 
+            "id": "42",
+            "collection":"accessories",
+            "mainTitle": "Kurzgesagt Pouch",
+            "blueTitle": "Organic Cotton Made to Last",
+            "value": "$13.90",
+            "description": "You need to store pens, art supplies, makeup or literally anything? We recommend using this gorgeous kurzgesagt pouch.",
+            "list": ["8.5 x 4.9",          
+            "Navy blue, sturdy canvas pouch with light blue cotton lining",
+            "Organic Fairtrade cotton",
+            "Screen print of kurzgesagt design on front and back"
+            ],
+            "images": ["https://cdn.shopify.com/s/files/1/0254/0516/1520/products/01_Pouch_Front.jpg?crop=center&v=1614767994&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/02_Pouch_Back.jpg?crop=center&v=1614767993&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/03_Pouch_Lining.jpg?crop=center&v=1614767993&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/04_Pouch_Detail.jpg?crop=center&v=1614767993&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/05_Pouch_Use.jpg?crop=center&v=1614767994&width=900"
+            ]
+        },
+        { 
+            "id": "43",
+            "collection":"accessories",
+            "mainTitle": "Earth Mug",
+            "blueTitle": "Kurzgesagt Essential",
+            "value": "$15.90",
+            "description": "This is the perfect mug for curling up by the fire and watching your favorite YouTube channel.",
+            "list": ["12 oz",
+            "Black ceramic mug",
+            "Microwave safe",
+            "Hand wash recommended"
+            ],
+            "images": ["https://cdn.shopify.com/s/files/1/0254/0516/1520/products/01_EarthMugs_EU_Solo_Front.jpg?crop=center&v=1657637243&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/02_EarthMugs_EU_Front.jpg?crop=center&v=1657637243&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/03_EarthMug_EU_Solo.jpg?crop=center&v=1657637243&width=900"
+            ]
+        },
+        { 
+            "id": "44",
+            "collection":"accessories",
+            "mainTitle": "Black & White Hole Plushie",
+            "blueTitle": "Cute & Mysterious",
+            "value": "$34.90",
+            "description": "Black Holes consume everything that gets too close without ever giving back while White Holes can only ever give but will never let anything or anyone in.",
+            "list": ["Ø 12.2",
+            "100% polyester",
+            "Woven kurzgesagt label"
+            ],
+            "images": ["https://cdn.shopify.com/s/files/1/0254/0516/1520/products/01_BlackHole_Front.jpg?crop=center&v=1611584010&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/02_BlackHole_White.jpg?crop=center&v=1611584010&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/03_BlackHole_White.jpg?crop=center&v=1611584010&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/04_BlackHole_Side.jpg?crop=center&v=1611584010&width=900",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/08_BlackHole_Scene.jpg?crop=center&v=1611584010&width=900"
+            ]
+        },
+        { 
+            "id": "45",
+            "collection":"accessories",
+            "mainTitle": "Space Sticker Set",
+            "blueTitle": "Kurzgesagt Essential",
+            "value": "$7.00",
+            "description": "We created this space sticker set for humans and every other life form in the universe that might be interested in stickers. Enjoy!",
+            "list": ["5.8 × 8.3",
+            "2 sheets",
+            "23 space stickers"
+            ],
+            "images": ["https://cdn.shopify.com/s/files/1/0254/0516/1520/products/01_Sticker_Space_Front.jpg?crop=center&v=1595593812&width=540",
+            "https://cdn.shopify.com/s/files/1/0254/0516/1520/products/02_Sticker_Space_Use.jpg?crop=center&v=1595593812&width=540"
+            ]
         }
     ]

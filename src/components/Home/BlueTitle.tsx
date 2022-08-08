@@ -7,9 +7,9 @@ interface BlueTitleProps {
 
 export function BlueTitle({ title, subtitle }: BlueTitleProps) {
   return (
-    <Flex width='100%' flexDir='column' justifyContent='center' alignItems='center' my='20'>
-      <Text color='blue.800' fontWeight='600' fontSize='36px'>{title}</Text>
-      <Text color='blue.800' fontWeight='500' fontSize='18px'>{subtitle}</Text>
+    <Flex width={'100%'} flexDir='column' justifyContent='center' alignItems='center' my={'20'} > 
+      <Text color='blue.800' fontWeight='600' fontSize={['22px','25px','30px','36px','36px']} textAlign='center'>{title}</Text>
+      <Text color='blue.800' fontWeight='500' fontSize='18px' textAlign='center'>{subtitle}</Text>
     </Flex>
   )
 }
