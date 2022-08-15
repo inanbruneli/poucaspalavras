@@ -20,11 +20,11 @@ export default function Home() {
 
   const dataArrivals = [
     { id: 1, bestseller: false, image: 'https://cdn.shopify.com/s/files/1/0254/0516/1520/products/01_EE_HumanCell_FRONT.jpg?crop=center&v=1649159841&width=540', title: 'Human Cell Poster', value: '$19.90 USD', novo: true },
-    { id: 1, bestseller: false, image: 'https://cdn.shopify.com/s/files/1/0254/0516/1520/products/01_Dadhat_Earth_Blue_Front.jpg?crop=center&v=1655800545&width=720', title: 'Dad Hat Blue', value: '$26.90 USD', novo: true },
+    { id: 46, bestseller: false, image: 'https://cdn.shopify.com/s/files/1/0254/0516/1520/products/01_Dadhat_Earth_Blue_Front.jpg?crop=center&v=1655800545&width=720', title: 'Dad Hat Blue', value: '$26.90 USD', novo: true },
     { id: 3, bestseller: false, image: 'https://cdn.shopify.com/s/files/1/0254/0516/1520/products/01_EE_WorldMap_Globalisation_Front.jpg?crop=center&v=1655799969&width=720', title: 'Human Perspective World Map Poster', value: '$19.90 USD', novo: true },
     { id: 27, bestseller: false, image: 'https://cdn.shopify.com/s/files/1/0254/0516/1520/products/01_PocketLogs_Lake_Front.jpg?crop=center&v=1651660220&width=720', title: 'Pocket Log – Lake Collection', value: '$11.90 USD', novo: true },
     { id: 30, bestseller: false, image: 'https://cdn.shopify.com/s/files/1/0254/0516/1520/products/01_PocketLogs_Treasure_Front.jpg?crop=center&v=1651660275&width=720', title: 'Pocket Log – Treasure Collection', value: '$11.90 USD', novo: false },
-    { id: 1, bestseller: false, image: 'https://cdn.shopify.com/s/files/1/0254/0516/1520/products/01_Jobs_Astronaut_Front_9a564f7d-a742-48f3-a3cf-150a61cc7e24.jpg?crop=center&v=1609357132&width=720', title: 'Astronaut Duck Enamel Pin', value: '$14.90 USD', novo: false },
+    { id: 58, bestseller: false, image: 'https://cdn.shopify.com/s/files/1/0254/0516/1520/products/01_Jobs_Astronaut_Front_9a564f7d-a742-48f3-a3cf-150a61cc7e24.jpg?crop=center&v=1609357132&width=720', title: 'Astronaut Duck Enamel Pin', value: '$14.90 USD', novo: false },
   ]
 
   const dataPosters = [
