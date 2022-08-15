@@ -25,8 +25,8 @@ export default function Product({ id }: ProductProps) {
       <Head />
 
       <Flex paddingY='3%' flexDir='column' justifyContent='center' alignItems='center'>
-        <Flex h='100%' maxW={['95%', '95%', '95%', '95%', '80%']} justifyContent='space-between' mb='3' flexDir={['column', 'column', 'column', 'row', 'row']}>
-          <Flex w={['95%', '95%', '95%', '50%', '50%']} justifyContent='space-between'>
+        <Flex h='100%' maxW={['100%', '95%', '95%', '95%', '80%']} justifyContent='space-between' mb='3' flexDir={['column', 'column', 'column', 'row', 'row']}>
+          <Flex w={['99%', '95%', '95%', '50%', '50%']} justifyContent='space-between'>
             <Stack w='20%' spacing='3' paddingX='2' alignItems='center' py='3'>
 
               {sideImages.map((item) => {
@@ -56,7 +56,7 @@ export default function Product({ id }: ProductProps) {
               })}
 
             </Stack>
-            <Flex w='78%' bg='red'>
+            <Flex w='78%' >
               <Image src={mainImage} boxSize='100%'></Image>
             </Flex>
 
