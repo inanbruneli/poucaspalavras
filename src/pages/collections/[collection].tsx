@@ -4,6 +4,7 @@ import { ArrivalsItem } from "src/components/Home/Arrivals/ArrivalsItem";
 import { Footer } from "src/components/Home/Footer";
 import { Head } from "src/components/Home/Head";
 import dataPoster from 'src/data/posters.json';
+import dataCapa from 'src/data/capa.json';
 
 interface CollectionProps {
   collection: string;
@@ -11,6 +12,7 @@ interface CollectionProps {
 
 export default function Collection({ collection }: CollectionProps) {
   const data = dataPoster.filter((item) => item.collection == collection);
+  const capa = dataCapa.filter((item) => item.collection == collection)[0].image;
 
   return (
     <Box overflowX='hidden'>
@@ -20,7 +22,7 @@ export default function Collection({ collection }: CollectionProps) {
         <Image
           boxSize={['100%', '100%', '90%', '80%', '65%']}
           marginX='auto'
-          src='https://cdn.shopify.com/s/files/1/0254/0516/1520/files/220506_Posters_Collection_desktop_1296x.jpg?v=11008427675408508083 '
+          src={capa}
         >
         </Image>
       </Flex>
