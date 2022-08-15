@@ -21,7 +21,7 @@ export function Head() {
           <MenuItem href='../collections/notebooks' text="Notebooks & Journals" />
           <MenuItem href='../collections/clothes' text="Clothes" />
           <MenuItem href='../collections/accessories' text="Accessories" />
-          <MenuItem href='../collections/pins' text="Pins" />
+          <MenuItem href='../collections/pin' text="Pins" />
         </Stack>
       </Stack>
 
