@@ -15,21 +15,18 @@
 
 ### Screenshot
 
-### Login
-![](public/images/login.png)
+### Home
+![](public/images/index.png)
 
-### Dashboard
-![](public/images/dashboard.png)
+### Collection
+![](public/images/colection.png)
 
-### List User
-![](public/images/userlist.png)
-
-### Create User
-![](public/images/usercreate.png)
+### Product
+![](public/images/product.png)
 
 ### Links
 
-- [Link website](https://dashgo-inanbruneli.vercel.app/)
+- [Link website](https://poucaspalavras.vercel.app/)
 
 ## My process
 
@@ -37,23 +34,15 @@
 
 - ReactJS
 - NextJS
-  - Context API
   - Typescript
-  - SCSS
 
 -Library
   - Chakra UI
-  - Mirage
-  - Faker
-  - React Hook Form
-  - Apex Chart
-  - React Query
 
 -Responsive
 
 ### Continued development
 
-Training NextJS and Chakra UI.
 Feel free to put your feedback 🚀🚀
 
 ## Author
